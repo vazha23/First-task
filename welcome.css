@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+/* here is a welcome page's background*/
+body{
+    height: 650px;
+    background-color: red;
+    background-image: linear-gradient(rgb(45, 0, 243), rgb(0, 238, 255));
+}
+.registracion{
+    text-align:center; 
+}
+h4{
+    color: rgb(0, 0, 0);
+    text-shadow:1px 1px rgba(0, 0, 0, 0.555);
+}
+::placeholder{
+    color: rgb(0, 0, 0);
+}
+.next{
+    color: black;
+}
+.data{
+    text-align: center;
+}

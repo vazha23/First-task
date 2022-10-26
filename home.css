@@ -1,0 +1,56 @@
+h1{
+    text-align:left;
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+}
+.img{
+background-color: rgb(224, 224, 224);
+border-radius: 5px;
+margin: 10px;
+border: solid rgb(3, 5, 161);
+}
+body{
+    height: 100%px;
+    background-color: red; /* For browsers that do not support gradients */
+    background-image: linear-gradient(rgb(80, 0, 184), rgb(154, 206, 255));
+}
+.aboutProgram{
+background-color: rgb(224, 224, 224);
+border: solid rgb(3, 5, 161);
+margin: 10px;
+border-radius: 5px;
+}
+.img2{
+    float:left;
+    width: 25%;
+}
+h3{
+    text-align: center;
+    color: forestgreen;
+    text-decoration: underline;
+}
+.links{
+    float: left;
+    width: 400px;;
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 1px 1px black;
+}
+.learn{
+    border-radius: 5px;
+    border:solid rgb(3, 5, 161);
+    background-color:rgb(224, 224, 224);
+    text-align: right;
+}
+#lrn{
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+#lang{
+    margin-top:-10px;
+    color: rgb(253, 253, 255);
+    text-align: left;
+}
+.home{
+    color: blue;
+}
